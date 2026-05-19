@@ -1,7 +1,7 @@
 -----
   <h3 align="center">Languages and Tools</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,java,js,mysql,mongodb,nginx,py,react,express,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,lua,css,html,java,js,mysql,mongodb,nginx,py,react,express,tailwind,ts" />
   </p>
   <p align="center">
   <a href="https://github.com/ItzDriev/github-readme-stats">
